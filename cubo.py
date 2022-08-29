@@ -4,5 +4,3 @@ def volumen():
   
     print (f"El volumen del cubo es {lado ** 3}")
     
-
-volumen()
